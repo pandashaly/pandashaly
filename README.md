@@ -3,8 +3,14 @@
   
   <img alt="Hi, I'm shaly" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFAABB,50:BCB2FF,100:FFAABB&&text=Hello,%20I'm%20Shaly!👩🏽‍💻%20&textBg=false&fontSize=30&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn" />
 
-I’m Shaly! 🐼 A Computer Science Student at 42 London, and my goal is to work on projects that merge creativity, technology, and my love for languages. I am expanding my knowledge in both back-end and front-end development by working on various projects. 💻
-I see programming as a creative process where languages, technology, and innovation come together to solve problems and build meaningful tools. It's another way to connect with people across the globe and make a positive impact. When I’m not coding, I’m probably learning languages, drawing anime, listening to music, or thinking about pandas (or that stupid bug on line 42). 👾🌸
+I’m Shaly! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" alt="Panda" width="20" height="20" /> A Computer Science Student at [42 London](https://42london.com/) and WGU where I am expanding my knowledge in both back-end and front-end development by working on various projects. 💻
+
+My goal is to work on projects that merge creativity, technology, and my love for languages. 
+I see programming as a creative process where languages, technology, and innovation come together to solve problems and build meaningful tools. It's another way to connect with people across the globe and make a positive impact. 
+
+When I’m not coding, I’m probably learning languages, drawing anime, listening to music, or thinking about pandas (or that stupid bug on line 42). 👾🌸
+
+💌 Reach out to me at: <a href="leonardobravoricapa@gmail.com">leonardobravoricapa@gmail.com</a>
 
 ---
 
@@ -29,6 +35,8 @@ I see programming as a creative process where languages, technology, and innovat
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-%23323330.svg?style=for-the-badge)
 
 ---
+
+<img src="https://media.giphy.com/media/LQoL4nHVLzhw2YXMU6/giphy.gif" width="150" alt="Fun Sticker" />
 
 <!---
 color=0:FEAC5B,50:BCB2FF,100:FFAABB&
@@ -64,8 +72,6 @@ You can click the Preview link to take a look at your changes.
 - 🛠️ Developing apps and tools for automation and productivity.  
 - 💡 Exploring backend development with a sprinkle of visual projects!  
 
-<img src="https://i.giphy.com/media/wtdVYmaRWJ1PyPcc8e/giphy.gif" width="150" alt="Coding Sticker" />
-
 ---
 
 ## 🎵 My Spotify Playlist
@@ -84,8 +90,6 @@ You can click the Preview link to take a look at your changes.
 - 🍩 I believe donuts are the perfect debugging snack.  
 - 🐼 My favorite animal is the panda—obviously.  
 - 🎧 EDM is my go-to focus music!  
-
-<img src="https://media.giphy.com/media/LQoL4nHVLzhw2YXMU6/giphy.gif" width="150" alt="Fun Sticker" />
 
 ---
 
