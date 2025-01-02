@@ -3,7 +3,8 @@
   
   <img alt="Hi, I'm shaly" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFAABB,50:BCB2FF,100:FFAABB&&text=Hello,%20I'm%20Shaly!👩🏽‍💻%20&textBg=false&fontSize=30&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn" />
 
-I’m Shaly! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" alt="Panda" width="20" height="20" /> A Computer Science Student at [42 London](https://42london.com/) and WGU where I am expanding my knowledge in both back-end and front-end development by working on various projects. 💻
+I’m Shaly! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" alt="Panda" width="20" height="20" /> A Computer Science Student at [<img src="42.png" width="20" height="20" alt="42">
+ 42London](https://42london.com/) and WGU where I am expanding my knowledge in both back-end and front-end development by working on various projects. 💻
 
 My goal is to work on projects that merge creativity, technology, and my love for languages. 
 I see programming as a creative process where languages, technology, and innovation come together to solve problems and build meaningful tools. It's another way to connect with people across the globe and make a positive impact. 
