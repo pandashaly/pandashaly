@@ -78,14 +78,35 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <h3>
-  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/lab.gif" width="65" align="middle"> Learning Lab
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/lab.gif" width="65" align="left"> Learning Lab
 </h3>
 
-<p align="center">
+<p align="left">
   &nbsp;&nbsp;&nbsp; BUT FIRST THIS &nbsp;&nbsp;&nbsp;
 </p>
+<div align="left">
 Most of the code you stumble upon here is just me monkeying around... 🐒 <br>
 My GitHub primarily reflects my experimentation with new technologies, hobby projects, and learning endeavors. Please view it as a glimpse into my exploration 🧪 rather than a testament to my professional abilities 🦸.
+</div>
+
+<br>
+<div align="left">
+  <a href="https://github.com/pandashaly/ft_onion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pandashaly&repo=ft_onion&theme=tokyonight" alt="ft_onion">
+  </a>
+
+  <a href="https://github.com/pandashaly/fractol">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pandashaly&repo=fractol&theme=tokyonight" alt="fractol">
+  </a>
+
+  <a href="https://github.com/pandashaly/Born2BeRoot_tester">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pandashaly&repo=Born2BeRoot_tester&theme=tokyonight" alt="Born2BeRoot_tester">
+  </a>
+  
+  <a href="https://github.com/pandashaly/ft_otp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pandashaly&repo=ft_otp&theme=tokyonight" alt="ft_otp">
+  </a>
+</div>
 
 <br>
 <p align=center> <sub> Created with 🫀 and 🧠 by Shaly &nbsp;&nbsp;&nbsp; ©2024 </sub> </p>
