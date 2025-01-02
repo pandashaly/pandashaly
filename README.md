@@ -17,7 +17,7 @@ When I’m not coding, I’m probably learning languages, drawing anime, listeni
 
 💌 Reach out to me at: <a href="mailto:shalycatori@gmail.com">shalycatori@gmail.com
 
----
+<hr style="border: 2px solid #D8BFD8;">
 
 <div align="center">
 
@@ -53,15 +53,23 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img src="https://media.giphy.com/media/LQoL4nHVLzhw2YXMU6/giphy.gif" width="150" alt="Fun Sticker" />
-<img align=center alt="Spotify playlist" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
-<img align="left" width="380px" alt="Donutme" src="donutme.GIF"/>
+<img align="left" width="350px" alt="Donut Me" src="donutme.GIF"/>
+  <div style="flex: 1; margin-left: 20px;">
+    <h2>📊 My GitHub Stats</h2>
+    <br>
+    <h3>🍩 Donut Debugger | 📚 Lifelong Learner | 💻 Tech Student</h3>
+  </div>
 
-🎓 **Student at [42 London](https://42london.com/)**  
-🌟 **Creative Coder | Aspiring App Developer | Donut Enthusiast**  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandashaly&layout=compact&bg_color=end,FFAABB,A89AFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="150"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandashaly&border=true&card_width=400&background=0,A89AFF,FFAABB&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="150">
 </div>
+
+<div style="margin-top: 20px; display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandashaly&layout=compact&bg_color=end,FFAABB,A89AFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="150"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandashaly&border=true&card_width=400&background=0,A89AFF,FFAABB&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="150">
+</div>
+
+---
 
 <div align="center">
 
@@ -103,6 +111,17 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-</div>
+<h3>
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/lab.gif" width="65" align="middle"> Learning Lab
+</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/roadsign.gif" width="40" align="middle">
+  &nbsp;&nbsp;&nbsp; BUT FIRST THIS &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/roadsign.gif" width="40" align="middle">  
+</p>
+Most of the code you stumble upon here is just me monkeying around... 🐒 <br>
+My GitHub primarily reflects my experimentation with new technologies, hobby projects, and learning endeavors. Please view it as a glimpse into my exploration 🧪 rather than a testament to my professional abilities 🦸.
+
+<br>
 <p align=center> <sub> Created with 🫀 and 🧠 by Shaly &nbsp;&nbsp;&nbsp; ©2024 </sub> </p>
