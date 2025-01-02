@@ -65,8 +65,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div style="margin-top: 20px; display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandashaly&layout=compact&bg_color=end,FFAABB,A89AFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="150"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandashaly&border=true&card_width=400&background=0,A89AFF,FFAABB&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandashaly&layout=compact&bg_color=end,FFAABB,A89AFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="130"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandashaly&border=true&card_width=400&background=0,A89AFF,FFAABB&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="130">
 </div>
 
 <br>
