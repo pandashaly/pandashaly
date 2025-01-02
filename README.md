@@ -51,18 +51,19 @@ color=0:FEAC5B,50:BCB2FF,100:FFAABB&
 pandashaly/pandashaly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 <img src="https://media.giphy.com/media/LQoL4nHVLzhw2YXMU6/giphy.gif" width="150" alt="Fun Sticker" />
-
 <img align=center alt="Spotify playlist" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
-<img align="left" width="400px" alt="Donutme" src="donutme.PNG"/>
 
+<img align="left" width="380px" alt="Donutme" src="donutme.GIF"/>
+
+🎓 **Student at [42 London](https://42london.com/)**  
+🌟 **Creative Coder | Aspiring App Developer | Donut Enthusiast**  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandashaly&layout=compact&bg_color=end,FFAABB,A89AFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="150"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandashaly&border=true&card_width=400&background=0,A89AFF,FFAABB&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="150">
 </div>
 
 <div align="center">
-
-🎓 **Student at [42 London](https://42london.com/)**  
-🌟 **Creative Coder | Aspiring App Developer | Donut Enthusiast**  
 
 <img src="https://media.giphy.com/media/JF70qeolvPS0ph52ZY/giphy.gif" width="200" alt="Cozy Panda GIF" />
 
@@ -85,13 +86,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 🎵 My Spotify Playlist
 ![Spotify Badge](https://spotify-readme.vercel.app/api/spotify?playlist=7z03d0JLcw54mVgrKV5LnR)
-
----
-
-## 📊 GitHub Stats That Will Look Better Soon 😅:
-![](https://github-readme-stats.vercel.app/api?username=pandashaly&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pandashaly&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pandashaly&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
