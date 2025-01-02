@@ -69,45 +69,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandashaly&border=true&card_width=400&background=0,A89AFF,FFAABB&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="150">
 </div>
 
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/JF70qeolvPS0ph52ZY/giphy.gif" width="200" alt="Cozy Panda GIF" />
-
----
-
-## 🌟 About Me
-- 🐼 Lover of pandas and everything cozy.  
-- 🎨 A creative soul who codes, draws anime, and dreams in lilac hues.  
-- 💡 Passionate about building language-learning apps and tools that inspire creativity.  
-- 🎧 Usually coding to EDM beats—check out my [EDM playlist](https://open.spotify.com/playlist/7z03d0JLcw54mVgrKV5LnR?si=19f4d03f475e4f73)!  
-
----
-
-## 🚀 What I’m Working On
-- 🌈 Learning algorithms and improving my problem-solving skills.  
-- 🛠️ Developing apps and tools for automation and productivity.  
-- 💡 Exploring backend development with a sprinkle of visual projects!  
-
----
-
-## 🎵 My Spotify Playlist
-![Spotify Badge](https://spotify-readme.vercel.app/api/spotify?playlist=7z03d0JLcw54mVgrKV5LnR)
-
----
-
-## 💡 Fun Facts
-- 🍩 I believe donuts are the perfect debugging snack.  
-- 🐼 My favorite animal is the panda—obviously.  
-- 🎧 EDM is my go-to focus music!  
-
----
-
-## 🌎 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalyca-sottoriva/)  
-[![My Anime Art](https://img.shields.io/badge/My%20Art-%23FF6347.svg?style=for-the-badge)](https://www.instagram.com/shalycreative/)  
-[![EDM Playlist](https://img.shields.io/badge/Spotify-EDM%20Vibes-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7z03d0JLcw54mVgrKV5LnR?si=19f4d03f475e4f73)
+<br>
+<br>
 
 ---
 
@@ -116,9 +79,7 @@ You can click the Preview link to take a look at your changes.
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/roadsign.gif" width="40" align="middle">
   &nbsp;&nbsp;&nbsp; BUT FIRST THIS &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/roadsign.gif" width="40" align="middle">  
 </p>
 Most of the code you stumble upon here is just me monkeying around... 🐒 <br>
 My GitHub primarily reflects my experimentation with new technologies, hobby projects, and learning endeavors. Please view it as a glimpse into my exploration 🧪 rather than a testament to my professional abilities 🦸.
