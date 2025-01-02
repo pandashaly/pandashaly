@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" width="310px" alt="Donut Me" src="donutme.GIF"/>
   <div style="flex: 1; margin-left: 20px;">
-    <h2>📊 My GitHub Stats</h2>
+    <h3>📊 My GitHub Stats</h2>
     <br>
     <h3>🍩 Donut Debugger | 📚 Lifelong Learner | 💻 Tech Student</h3>
   </div>
