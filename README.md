@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
-<img align="left" width="350px" alt="Donut Me" src="donutme.GIF"/>
+<img align="left" width="310px" alt="Donut Me" src="donutme.GIF"/>
   <div style="flex: 1; margin-left: 20px;">
     <h2>📊 My GitHub Stats</h2>
     <br>
