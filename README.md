@@ -2,6 +2,9 @@
 
 <img alt="Hi, I'm Shaly!" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:BCB2FF,50:FFAABB,100:BCB2FF&&text=Hello,%20I'm%20Shaly!%20🐼🍩&fontSize=30&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=26&pause=800&color=BCB2FF&width=700&lines=printf(%22Hello,+World%5Cn%22);%24+whoami+Shaly;cd+~%2Flanguages+%E2%86%92+English%2C+Italian%2C+Japanese%2C+Spanish%2C+German;.%2Ffocus+--music+EDM;pip+install+learning-tools;rm+-rf+self-doubt;sudo+apt-get+install+perseverance;git+commit+-m+%22Coding+%2B+Hard+Work+%2B+Creativity%22" alt="Typing SVG">
+</div>
 <img align="right" width="250px" alt="Waving Shaly GIF" src="miniiime.GIF"/>
 
 ---
