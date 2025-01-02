@@ -1,7 +1,8 @@
-
 <div align="center">
-  
-  <img alt="Hi, I'm shaly" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFAABB,50:BCB2FF,100:FFAABB&&text=Hello,%20I'm%20Shaly!👩🏽‍💻%20&textBg=false&fontSize=30&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn" />
+
+<img alt="Hi, I'm Shaly!" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:BCB2FF,50:FFAABB,100:BCB2FF&&text=Hello,%20I'm%20Shaly!%20🐼🍩&fontSize=30&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+
+---
 
 <table align="center" width="100%">
   <tr>
@@ -20,13 +21,15 @@
       </p>
       <p>💌 Reach out to me at: <a href="mailto:shalycatori@gmail.com">shalycatori@gmail.com</a></p>
     </td>
-    <td align="center" width="150">
-      <img src="minime.gif" alt="Waving Shaly GIF" width="150">
+    <td align="center" width="400">
+      <img src="minime.GIF" alt="Waving Shaly GIF" width="400">
     </td>
   </tr>
 </table>
 
 ---
+
+<div align="center">
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -48,9 +51,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-%23323330.svg?style=for-the-badge)
 
----
+</div>
 
-<img src="https://media.giphy.com/media/LQoL4nHVLzhw2YXMU6/giphy.gif" width="150" alt="Fun Sticker" />
+---
 
 <!---
 color=0:FEAC5B,50:BCB2FF,100:FFAABB&
@@ -58,6 +61,7 @@ color=0:FEAC5B,50:BCB2FF,100:FFAABB&
 pandashaly/pandashaly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://media.giphy.com/media/LQoL4nHVLzhw2YXMU6/giphy.gif" width="150" alt="Fun Sticker" />
 
 <img align=center alt="Spotify playlist" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
 
@@ -115,3 +119,5 @@ You can click the Preview link to take a look at your changes.
 ---
 
 </div>
+
+<p align=center> <sub> Created with 🫀 and 🧠 by Shaly &nbsp;&nbsp;&nbsp; ©2024 </sub> </p>
