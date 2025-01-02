@@ -2,30 +2,20 @@
 
 <img alt="Hi, I'm Shaly!" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:BCB2FF,50:FFAABB,100:BCB2FF&&text=Hello,%20I'm%20Shaly!%20🐼🍩&fontSize=30&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 
+<img align="right" width="250px" alt="Waving Shaly GIF" src="miniiime.GIF"/>
+
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td>
-      <p>
-        I’m Shaly! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" alt="Panda" width="20" height="20" /> 
-        A Computer Science Student at [<img src="42.png" width="20" height="20" alt="42"> 42London](https://42london.com/) and WGU where I am expanding my knowledge in both back-end and front-end development by working on various projects. 💻
-      </p>
-      <p>
-        My goal is to work on projects that merge creativity, technology, and my love for languages. 
-        I see programming as a creative process where languages, technology, and innovation come together to solve problems and build meaningful tools. 
-        It's another way to connect with people across the globe and make a positive impact.
-      </p>
-      <p>
-        When I’m not coding, I’m probably learning languages, drawing anime, listening to music, or thinking about pandas (or that stupid bug on line 42). 👾🌸
-      </p>
-      <p>💌 Reach out to me at: <a href="mailto:shalycatori@gmail.com">shalycatori@gmail.com</a></p>
-    </td>
-    <td align="center" width="400">
-      <img src="minime.GIF" alt="Waving Shaly GIF" width="400">
-    </td>
-  </tr>
-</table>
+I’m Shaly! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" alt="Panda" width="20" height="20" />
+A Computer Science Student at [<img src="42.png" width="20" height="20" alt="42"> 42London](https://42london.com/) and WGU where I am expanding my knowledge in both back-end and front-end development by working on various projects. 💻
+
+My goal is to work on projects that merge creativity, technology, and my love for languages. 
+I see programming as a creative process where languages, technology, and innovation come together to solve problems and build meaningful tools. 
+It's another way to connect with people across the globe and make a positive impact. 🌎
+
+When I’m not coding, I’m probably learning languages, drawing anime, listening to music, or thinking about pandas (or that stupid bug on line 42). 👾🌸
+
+💌 Reach out to me at: <a href="mailto:shalycatori@gmail.com">shalycatori@gmail.com
 
 ---
 
